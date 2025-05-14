@@ -1,6 +1,6 @@
 {
-  "name": "My Extensions Repo",
-  "description": "YouTube Invidious Extension",
+  "name": "Kaificreation Extensions",
+  "description": "Cloudstream extensions by Kaificreation",
   "manifestVersion": 1,
   "plugins": [
     {
@@ -8,7 +8,7 @@
       "description": "Stream YouTube videos via Invidious",
       "package": "com.youtube.invidious",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/YouTubeInvidious.zip",
+      "url": "https://raw.githubusercontent.com/Kaificreation/cloudstream-extensions/master/YouTubeInvidious.zip",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
     }
   ]
