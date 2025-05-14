@@ -1,0 +1,15 @@
+{
+  "name": "My Extensions Repo",
+  "description": "YouTube Invidious Extension",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "name": "YouTube (Invidious)",
+      "description": "Stream YouTube videos via Invidious",
+      "package": "com.youtube.invidious",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/YouTubeInvidious.zip",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
+    }
+  ]
+}
